@@ -20,3 +20,10 @@ header{
     justify-content: space-between ;
     align-items: center;
 }
+header .logo{
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
