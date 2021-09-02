@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+.conteudo{
+    min-height: 100vh;
+    height:auto;
+    padding: 40px 0;
+    color:#fff;
+    font-size:20px;
+    text-align:center;
+    background-color:#560caa;
+    transition: all .5s;
+    }
+    .conteudo :hover { background-image:url(img/Lua.png); 
+    }
