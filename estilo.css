@@ -4,12 +4,8 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     box-sizing: border-box;
 }
-.link{
+.header-site a{
     text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-decoration: none;
-    color:rgb(38, 19, 146);
-}
-.link:hover{
-    color:rgb(16, 117, 62);
+    color:rgb(199, 18, 27);
 }
