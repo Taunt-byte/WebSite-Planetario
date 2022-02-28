@@ -137,7 +137,7 @@ nav ul li a{
     font-style: italic;
     color: #787878;
 }
-/*---Grupo---*/
+/*---Planetas---*/
 #teams{
     padding-top: 50px;
     padding-bottom: 50px;
@@ -202,7 +202,7 @@ nav ul li a{
 }
 /* oferta */
 
-#offer button{
+#horario button{
     margin: 30px 0;
 }
 
