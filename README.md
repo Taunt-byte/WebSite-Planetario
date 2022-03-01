@@ -34,16 +34,18 @@ Projeto feito com o objetivo de treinar o CSS e o HTML.
 
 ## Instalação
 
-Falar como instalar o programa na maquina
-Falar tambem como deve ser instalado bibliotecas ou arquivos adicionais
+Para Instalar esse repositorio basta utilizar o comando do git.
+
+    git clone https://github.com/Taunt-byte/WebSite-Planetario.git
 
 ## Como usar
 
-Falar como deve ser usado e explicar as funções do arquivo
+Para utilizar esse repositorio basta abrir a pasta do mesmo em uma IDE.
 
 ## Pre Requisitos
 
-Falar sobre o que precisa para rodar o programa e como
+1) GIT
+2) Uma boa IDE (Recomendo o VScode)
 
 ## Tecnologias
 
