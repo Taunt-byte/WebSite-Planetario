@@ -40,7 +40,10 @@ Para Instalar esse repositorio basta utilizar o comando do git.
 
 ## Como usar
 
-Para utilizar esse repositorio basta abrir a pasta do mesmo em uma IDE.
+Para utilizar esse repositorio basta abrir a pasta do mesmo em uma IDE ou acessar o link:
+
+  https://taunt-byte.github.io/WebSite-Planetario/
+
 
 ## Pre Requisitos
 
